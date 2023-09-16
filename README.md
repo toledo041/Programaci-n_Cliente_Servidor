@@ -1,2 +1,2 @@
-# Programaci-n_Cliente_Servidor
+# Programación_Cliente_Servidor
 Programas y actividades durante la clase
